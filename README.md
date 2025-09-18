@@ -1,5 +1,5 @@
 # calculatory-python
-"Una calculadora en python ,muy basica pero ayuda en lo que cabe"
+"Una calculadora en python ,muy basica pero ayuda "
 
 
 Una calculadora simple que realiza operaciones básicas con manejo de errores.
