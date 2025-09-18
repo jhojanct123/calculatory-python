@@ -1,11 +1,11 @@
-def Calculadora
-print ("Calculadora de Stiven")
-print ("Operaciones disponibles")
-print (" 1. Suma")
-print (" 2. Resta")
-print (" 3. Multiplicacion")
-print (" 4. Division")
-print (" 5. Salir")
+def calculadora(a, b):
+    return {
+        "suma": a + b,
+        "resta": a - b,
+        "multiplicación": a * b,
+        "división": a / b if b != 0 else "Error: división por cero"
+    }
+
 
 
 
