@@ -9,10 +9,10 @@ Funcionalidades
 - Resta
 - Multiplicación
 - División (con validación de división por cero)
+- Exponenciacion
 
 Cómo usar
 python
-from calculadora import calculadora
+import CALCULATORNEW
 
-resultado = calculadora(10, 5)
-print(resultado["suma"])   Output: 15
+
